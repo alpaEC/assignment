@@ -8,6 +8,6 @@ public class AthleteFinder {
     }
 
     public static void main(String[] args) {
-        System.out.println(find("Aleks"));
+
     }
 }

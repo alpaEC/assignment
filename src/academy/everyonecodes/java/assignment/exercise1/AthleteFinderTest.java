@@ -11,8 +11,7 @@ class AthleteFinderTest {
 
     @Test
     void find() {
-        var result;
-        result = finder.find(List.of(
+        var result = finder.find(List.of(
                 new Athlete("John", "Smith", 1.86, false),
                 new Athlete("Jack", "Miller", 1.75, false),
                 new Athlete("Joe", "Sable", 1.56, false),
